@@ -17,8 +17,9 @@ const Header = () => {
       <div className="navbar-nav">
         
         <Link className='nav-link active' to={"/"}>Product Details</Link>
-        <Link className='nav-link' to={'/'}></Link>
-        <a className="nav-link" href="#">Pricing</a>
+        
+        
+        <Link className='nav-link' to={'/search'}> Search Proudct</Link>
         <a className="nav-link disabled">Disabled</a>
       </div>
     </div>

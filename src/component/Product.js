@@ -2,6 +2,8 @@ import React from 'react'
 import Header from './Header'
 
 const Product = () => {
+
+    var[Name,setName]=
   return (
     <div>
         <Header/>
